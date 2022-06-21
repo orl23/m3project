@@ -1,4 +1,33 @@
-html,  body {
+html,  body { 
+        
   height: 100%;
   width: 100%;
 } 
+h1{ 
+    color: red; 
+}
+p { 
+    color: red; 
+}
+
+a {
+    color: red;
+}
+
+form {
+    color: red;
+} 
+
+body {
+    background-image: url("https://wallpapers.justgeek.fr/web/wallpapers/apex-legends-wallpaper-jeux-video-3/1920x1080.png"); 
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover; 
+ 
+} 
+h1 {text-align: center;} 
+
+h1 {
+  font-size: 80px;
+} 
+
