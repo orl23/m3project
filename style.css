@@ -19,15 +19,26 @@ form {
 } 
 
 body {
-    background-image: url("https://wallpapers.justgeek.fr/web/wallpapers/apex-legends-wallpaper-jeux-video-3/1920x1080.png"); 
+      background-image: linear-gradient(to bottom right, #914e45, #4f6390);
       background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover; 
- 
+      background-repeat: repeat-y;
+      background-size: cover;
 } 
 h1 {text-align: center;} 
 
 h1 {
   font-size: 80px;
 } 
+
+
+#season13Paragraph {
+    border: 1px solid white;
+    width: 700px;
+    font-size: 20px;
+    color: white;
+}
+
+#season13Paragraph p {
+    color: #8B0000;
+}
 
