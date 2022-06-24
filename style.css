@@ -7,11 +7,11 @@ h1{
     color: red; 
 }
 p { 
-    color: red; 
+    color: #e8e3db; 
 }
 
 a {
-    color: red;
+    color: #e8e3db;
 }
 
 form {
@@ -39,6 +39,20 @@ h1 {
 }
 
 #season13Paragraph p {
-    color: #8B0000;
+    color: #e8e3db;
 }
 
+nav {
+    text-align: center;
+    font-size: 35px;
+} 
+
+ul li {
+    list-style-type: none;
+/*     border: 1px solid white; */
+    display: inline;
+    margin: 0px 30px 0px 30px; /* TOP RIGHT BOTTOM LEFT */
+    color: #e8e3db;
+}
+
+	
